@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57344" started-at="2022-07-10T13:31:56Z" finished-at="2022-07-10T13:32:53Z">
+    <groups>
+    </groups>
+    <test name="OnePlus_9" duration-ms="57344" started-at="2022-07-10T13:31:56Z" finished-at="2022-07-10T13:32:53Z">
+      <class name="com.Booking.TestCase.Tc_drag_drop">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeSuite" is-config="true" duration-ms="21" started-at="2022-07-10T13:31:56Z" finished-at="2022-07-10T13:31:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeTest" is-config="true" duration-ms="19509" started-at="2022-07-10T13:31:56Z" finished-at="2022-07-10T13:32:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[b931f1cd]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[OnePlus_9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeClass" is-config="true" duration-ms="5" started-at="2022-07-10T13:32:15Z" finished-at="2022-07-10T13:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:15Z" finished-at="2022-07-10T13:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="235" started-at="2022-07-10T13:32:15Z" finished-at="2022-07-10T13:32:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Booking.TestCase.Tc_drag_drop.TC_000() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_000()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="TC_000" duration-ms="594" started-at="2022-07-10T13:32:15Z" description="verify Test case image logo and company name  " finished-at="2022-07-10T13:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_000 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="612" started-at="2022-07-10T13:32:16Z" finished-at="2022-07-10T13:32:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_000 status=SUCCESS method=Tc_drag_drop.TC_000()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:16Z" finished-at="2022-07-10T13:32:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:17Z" finished-at="2022-07-10T13:32:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2022-07-10T13:32:17Z" finished-at="2022-07-10T13:32:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Booking.TestCase.Tc_drag_drop.TC_001() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_001()[pri:1, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="TC_001" duration-ms="5998" started-at="2022-07-10T13:32:17Z" description="verify the test case valid username and valid password " finished-at="2022-07-10T13:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-07-10T13:32:23Z" finished-at="2022-07-10T13:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="607" started-at="2022-07-10T13:32:23Z" finished-at="2022-07-10T13:32:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_001 status=SUCCESS method=Tc_drag_drop.TC_001()[pri:1, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2022-07-10T13:32:23Z" finished-at="2022-07-10T13:32:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Booking.TestCase.Tc_drag_drop.TC_002() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:23Z" finished-at="2022-07-10T13:32:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_002()[pri:2, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="TC_002" duration-ms="7147" started-at="2022-07-10T13:32:23Z" description="Verify test case drag drop add product successfully" finished-at="2022-07-10T13:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_002 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-07-10T13:32:30Z" finished-at="2022-07-10T13:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="673" started-at="2022-07-10T13:32:30Z" finished-at="2022-07-10T13:32:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_002 status=SUCCESS method=Tc_drag_drop.TC_002()[pri:2, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2022-07-10T13:32:31Z" finished-at="2022-07-10T13:32:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Booking.TestCase.Tc_drag_drop.TC_003() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:31Z" finished-at="2022-07-10T13:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_003()[pri:3, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="TC_003" duration-ms="14359" started-at="2022-07-10T13:32:31Z" description="Verify test case filter drag drop add product successfully" finished-at="2022-07-10T13:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_003 -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="649" started-at="2022-07-10T13:32:46Z" finished-at="2022-07-10T13:32:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_003 status=SUCCESS method=Tc_drag_drop.TC_003()[pri:3, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:46Z" finished-at="2022-07-10T13:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2022-07-10T13:32:46Z" finished-at="2022-07-10T13:32:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Booking.TestCase.Tc_drag_drop.TC_004() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:46Z" finished-at="2022-07-10T13:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TC_004()[pri:4, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="TC_004" duration-ms="5448" started-at="2022-07-10T13:32:46Z" description="verify Test case privacy policy " finished-at="2022-07-10T13:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_004 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-07-10T13:32:52Z" finished-at="2022-07-10T13:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterMethod" is-config="true" duration-ms="854" started-at="2022-07-10T13:32:52Z" finished-at="2022-07-10T13:32:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=TC_004 status=SUCCESS method=Tc_drag_drop.TC_004()[pri:4, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterClass" is-config="true" duration-ms="0" started-at="2022-07-10T13:32:52Z" finished-at="2022-07-10T13:32:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterTest" is-config="true" duration-ms="595" started-at="2022-07-10T13:32:52Z" finished-at="2022-07-10T13:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.Booking.TestCase.Tc_drag_drop@51e2adc7]" name="afterSuite" is-config="true" duration-ms="1" started-at="2022-07-10T13:32:54Z" finished-at="2022-07-10T13:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.Booking.TestCase.Tc_drag_drop -->
+    </test> <!-- OnePlus_9 -->
+  </suite> <!-- Suite -->
+</testng-results>

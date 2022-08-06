@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.qa.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="OnePlus_9(failed)" parallel="tests">
+    <parameter name="emulator" value="true"/>
+    <parameter name="platformName" value="Android"/>
+    <parameter name="udid" value="b931f1cd"/>
+    <parameter name="deviceName" value="OnePlus_9"/>
+    <parameter name="systemPort" value="10000"/>
+    <classes>
+      <class name="com.Booking.TestCase.Tc_drag_drop">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+          <include name="TC_005"/>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- com.Booking.TestCase.Tc_drag_drop -->
+    </classes>
+  </test> <!-- OnePlus_9(failed) -->
+</suite> <!-- Failed suite [Suite] -->

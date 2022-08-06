@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+<!--Registration -->
+	<string name="Data_is_in_processing">Data is in processing</string>
+	<string name="Please_enter_your_current_residing_Country">Please enter your current residing Country</string>
+    
+	
+</resources>

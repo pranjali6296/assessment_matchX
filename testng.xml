@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="tests">
+	<test thread-count="5" name="OnePlus_9">
+		<listeners>
+			<listener class-name="com.qa.listeners.TestListener" />
+		</listeners>
+		<parameter name="emulator" value="true" />
+		<parameter name="platformName" value="Android" />
+		<parameter name="udid" value="b931f1cd" />
+		<parameter name="deviceName" value="OnePlus_9" />
+		<parameter name="systemPort" value="10000" />
+		<classes>
+			   <class name="com.MatchX.TestCase.TestCase_Registration"/>
+		</classes>
+	</test>
+</suite> 
